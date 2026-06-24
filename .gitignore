@@ -24,3 +24,5 @@ db.db
 *.njsproj
 *.sln
 *.swp
+# Scripts
+scripts/
